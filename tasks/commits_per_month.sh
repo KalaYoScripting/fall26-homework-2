@@ -1,4 +1,5 @@
 #!/bin/bash
+# Fixed issue (#10)
 MAX=20
 
 git log --date=format:%Y-%m --pretty=format:%ad |
