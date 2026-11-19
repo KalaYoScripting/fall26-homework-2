@@ -1,5 +1,6 @@
 #!/bin/bash
 # Fixed issue (#10)
+# https://github.com/intro-to-git/fall26-homework-2/issues/10
 MAX=20
 
 git log --date=format:%Y-%m --pretty=format:%ad |
